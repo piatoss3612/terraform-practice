@@ -1,5 +1,18 @@
 # Terraform Practice
 
+## Requirements
+
+1. Terraform
+2. AWS Account
+3. AWS Access Key ID and Secret Access Key
+4. AWS CLI
+
+> Here is my slide for this practice though it's written in Korean
+
+[slide](https://docs.google.com/presentation/d/1a8jT79uiZQUPlkI07_UV0in8SLfAZhaRkuHd97d8nl8/edit?usp=sharing)
+
+---
+
 ## practice1 - Create AWS EC2 instance
 
 ### Provisioning
